@@ -3,6 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "basic-sintax/016_arrow_functions.ts"
+    "closures/019_closure.ts"
   ]
 }
