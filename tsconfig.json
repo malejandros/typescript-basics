@@ -3,6 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "closures/019_closure.ts"
+    "oop/025_interface_classes.ts"
   ]
 }
